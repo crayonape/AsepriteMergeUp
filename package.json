@@ -1,0 +1,17 @@
+{
+  "name": "merge-up",
+  "displayName": "Merge Up",
+  "description": "Merge current layer to the top",
+  "version": "0.1",
+  "author": { "name": "CrayonApe",
+              "email": "bellemere84@gmail.com"},
+  "contributors": [ ],
+  "publisher": "CrayonApe",
+  "license": "MIT",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./merge-up.lua" }
+    ]
+  }
+}
